@@ -1,2 +1,3 @@
 # Fire-watcher
-pfe master 
+pfe master: une solution d'intelligence artificielle pour détecter les incendies dans les zones pétrolières
+
